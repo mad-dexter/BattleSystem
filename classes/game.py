@@ -1,5 +1,4 @@
 import random
-from .magic import Spell
 
 
 class bcolors:
@@ -65,7 +64,7 @@ class Person:
         print(self.name)
         print("ACTIONS")
         for act in self.actions:
-            print(str(i), ": ", act)
+            print("    ", str(i), ": ", act)
             i += 1
 
     def choose_spell(self):
