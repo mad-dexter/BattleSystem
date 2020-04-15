@@ -1,0 +1,8 @@
+{"playerlist":[
+  {"name": "Bumble Bee", "hp": 460, "mp": 55, "atk": 60, "def": 34,"magic": ["fire", "thunder", "blizzard","cure"]},
+  {"name": "Opti Prime", "hp": 520, "mp": 65, "atk": 100, "def": 34,"magic": ["quake", "fire", "thunder", "blizzard", "curion"]},
+  {"name": "Arcee Bike", "hp": 460, "mp": 55, "atk": 60, "def": 34,"magic": ["fire", "thunder", "blizzard","cure"]},
+  {"name": "CiffJumper", "hp": 485, "mp": 70, "atk": 150, "def": 22,"magic": ["fire", "thunder", "cura"]},
+  {"name": "Wheeljack", "hp": 490, "mp": 60, "atk": 160, "def": 20,"magic": ["fire", "thunder", "cura"]},
+  {"name": "Ratchet", "hp": 400, "mp": 70, "atk": 50, "def": 40,"magic": ["thunder", "fire", "cure", "cura", "curion"]}
+]}

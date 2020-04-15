@@ -1,0 +1,14 @@
+{"enemies":[
+  {"name": "Brawl", "hp": 200, "mp": 60, "atk": 100, "def": 20,"magic": ["quake", "fire", "curion"], "level": 1},
+  {"name": "Vortex", "hp": 250, "mp": 60, "atk": 100, "def": 20,"magic": ["quake", "fire", "curion"], "level": 1},
+  {"name": "Octane", "hp": 200, "mp": 60, "atk": 100, "def": 20,"magic": ["quake", "fire", "curion"], "level": 1},
+  {"name": "Rampage", "hp": 400, "mp": 70, "atk": 110, "def": 20,"magic": ["quake", "thunder", "curion"], "level": 2},
+  {"name": "Apeface", "hp": 450, "mp": 70, "atk": 110, "def": 20,"magic": ["quake", "thunder", "curion"], "level": 2},
+  {"name": "Thrust", "hp": 400, "mp": 70, "atk": 110, "def": 20,"magic": ["quake", "thunder", "curion"], "level": 2},
+  {"name": "Kickback", "hp": 600, "mp": 80, "atk": 130, "def": 20,"magic": ["quake", "blizzard", "curion"], "level": 3},
+  {"name": "Reflectr", "hp": 700, "mp": 80, "atk": 130, "def": 20,"magic": ["quake", "blizzard", "curion"], "level": 3},
+  {"name": "Skywrap", "hp": 600, "mp": 80, "atk": 130, "def": 20,"magic": ["quake", "blizzard", "curion"], "level": 3},
+  {"name": "Shockwave", "hp": 1000, "mp": 100, "atk": 145, "def": 25,"magic": ["quake", "meteor", "curion"], "level": 4},
+  {"name": "Megatron", "hp": 1200, "mp": 200, "atk": 250, "def": 50,"magic": ["quake", "meteor", "curion"], "level": 4},
+  {"name": "Starscream", "hp": 1000, "mp": 100, "atk": 150, "def": 30,"magic": ["quake", "meteor", "curion"], "level": 4}
+]}
